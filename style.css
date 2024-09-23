@@ -1,0 +1,15 @@
+.yazar{
+    color: black !important;
+}
+#cesitbaslik{
+    color: red;
+}
+.cesitbaslik{
+    font-size: 30px ;
+}
+.kitap{
+    color: blueviolet !important;
+}
+body{
+    background-color: salmon;
+}
